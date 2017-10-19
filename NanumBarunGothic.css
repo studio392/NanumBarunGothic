@@ -6,7 +6,7 @@
  */
  
 @font-face {
- font-family: 'Barun Gothic';
+ font-family: 'BarunGothic';
  font-weight: 200;
  src: url(./NanumBarunGothicWebLight.eot);
  src: url(./NanumBarunGothicWebLight.eot?#iefix) format('embedded-opentype'),
@@ -14,7 +14,7 @@
       url(./NanumBarunGothicWebLight.ttf) format('truetype');
 }
 @font-face {
- font-family: 'Barun Gothic';
+ font-family: 'BarunGothic';
  font-weight: 400;
  src: url(./NanumBarunGothicWeb.eot);
  src: url(./NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
@@ -22,7 +22,7 @@
       url(./NanumBarunGothicWeb.ttf) format('truetype');
 }
 @font-face {
- font-family: 'Barun Gothic';
+ font-family: 'BarunGothic';
  font-weight: 800;
  src: url(./NanumBarunGothicWebBold.eot);
  src: url(./NanumBarunGothicWebBold.eot?#iefix) format('embedded-opentype'),
