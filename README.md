@@ -35,6 +35,6 @@ Created by NAVER. (http://www.naver.com)
 
 ```css
 body {
-  font-family:'Barun Gothic';
+  font-family:'BarunGothic';
 }
 ```
